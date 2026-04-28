@@ -10,7 +10,7 @@
 >
 **Para interfonar em alguma unidade, disque o numero da mesma**
 >
-Evite problemas, em caso de reclamações, utilize o canal da portaria.
+Evite problemas diretos, utilize o canal da portaria em caso de reclamações.
 
 [⬆️ Voltar ao Índice](README.md)
 
