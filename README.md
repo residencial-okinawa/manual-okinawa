@@ -30,7 +30,7 @@ Este manual visa organizar as informações, regras e facilitar o acesso aos con
 Seja muito bem-vindo(a) ao **Residencial Okinawa**! ⛩️
 
 Ficamos felizes em ter você como parte da nossa comunidade. Este manual foi criado para ajudar na sua integração, apresentando as regras básicas que garantem o respeito, a segurança e a harmonia entre todos os vizinhos.
-Nossos Regulamento Interno e atas de assembleias, estão registrados em cartório e pode ser acessado [**aqui**](https://drive.google.com/drive/folders/1BHIdtfPYbgHAHRZrfsX9yZYB3FdzcwQv).
+Nossos Regulamento Interno e atas de assembleias, estão registrados em cartório e podem ser acessado [**aqui**](https://drive.google.com/drive/folders/1BHIdtfPYbgHAHRZrfsX9yZYB3FdzcwQv).
 
 ### 🔑 Primeiros Passos para o Novo Morador:
 *   **Cadastro:** Certifique-se de que seus dados (e demais moradores da unidade/veículos/pets) estão atualizados na portaria e no app **CondoPro**. 
