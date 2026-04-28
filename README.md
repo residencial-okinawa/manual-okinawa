@@ -5,15 +5,16 @@
 ---
 
 ## 📌 Sumário
-1. [🏢 Sobre o Manual](#-sobre-o-manual)
-2. [👋 Boas-vindas](#-boas-vindas)
-3. [📞 Telefones de Emergência e Serviços (SP)](#-telefones-de-emergência-e-serviços-sp)
-4. [☎️ Ramais das Áreas Comuns](#️-ramais-das-áreas-comuns)
-5. [🤫 Horário de Silêncio e Sossego](#-horário-de-silêncio-e-sossego)
-6. [🛠️ Obras e Reparos](#️-obras-e-reparos)
-7. [🗑️ Coleta de Lixo](#️-coleta-de-lixo)
-8. [♻️ Descarte de Recicláveis](#️-descarte-de-recicláveis)
-9. [🏗️ Entulho, Madeira e Tintas (Ecopontos)](#️-entulho-madeira-e-tintas-ecopontos)
+1.  [🏢 Sobre o Manual](#-sobre-o-manual)
+2.  [👋 Boas-vindas](#-boas-vindas)
+3.  [📞 Telefones de Emergência e Serviços (SP)](#-telefones-de-emergência-e-serviços-sp)
+4.  [🚨 Suporte e Manutenções](#-suporte-e-manutenções)
+5.  [☎️ Ramais das Áreas Comuns](#️-ramais-das-áreas-comuns)
+6.  [🤫 Horário de Silêncio e Sossego](#-horário-de-silêncio-e-sossego)
+7.  [🛠️ Obras e Reparos](#️-obras-e-reparos)
+8.  [🗑️ Coleta de Lixo](#️-coleta-de-lixo)
+9.  [♻️ Descarte de Recicláveis](#️-descarte-de-recicláveis)
+10. [🏗️ Entulho, Madeira e Tintas (Ecopontos)](#️-entulho-madeira-e-tintas-ecopontos)
 
 ---
 
