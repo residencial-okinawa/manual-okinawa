@@ -1,4 +1,4 @@
-## ☎️ Ramais das Áreas Comuns
+## ☎️ Ramais das Áreas Comuns - Interfones
 
 
 | Local | Ramal |
