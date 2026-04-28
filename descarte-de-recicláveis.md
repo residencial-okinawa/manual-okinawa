@@ -21,6 +21,6 @@ Estes itens **jamais** devem ir para o lixo comum:
 > [!TIP]
 > **Óleo de Cozinha:** Nunca jogue na pia. Armazene em garrafas PET e deixe ao lado da caçamba de recicláveis ou despeje no galão que disponibilizamos no local.
 
-[⬆️ Voltar ao índice](#-sumário)
+[⬆️ Voltar ao Índice](README.md)
 
 ---
