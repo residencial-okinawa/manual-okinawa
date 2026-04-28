@@ -8,7 +8,7 @@
 1.  [🏢 Sobre o Manual](README.md)
 2.  [👋 Boas-vindas](README.md)
 3.  [📞 Telefones de Emergência e Serviços (SP)](telefones-de-emergência-e-serviços-sp.md)
-4.  [🚨 Suporte e Manutenções](suporte-e-manutencoes.md)
+4.  [🚨 Suporte e Manutenções](suporte-manutencoes.md)
 5.  [☎️ Ramais das Áreas Comuns](ramais-das-áreas-comuns.md)
 6.  [🤫 Horário de Silêncio e Sossego](horário-de-silêncio-e-sossego.md)
 7.  [🛠️ Obras e Reparos](obras-e-reparos.md)
