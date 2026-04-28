@@ -21,5 +21,5 @@ Materiais volumosos não são recolhidos pela coleta comum. Utilize os **Ecopont
 * **Domingos e Feriados:** 06h às 18h.
 
 
-[⬆️ Voltar ao índice](#-sumário)
+[⬆️ Voltar ao Índice](README.md)
 ---
