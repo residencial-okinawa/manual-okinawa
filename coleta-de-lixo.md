@@ -9,6 +9,6 @@
 > * **Dica 1:** Divida o lixo em mais sacolas para garantir que chegue intacto.
 > * **Dica 2:** Para resíduos úmidos, use sacos duplos para evitar gotejamento no trajeto até a lixeira.
 
-[⬆️ Voltar ao índice](#-sumário)
+[⬆️ Voltar ao Índice](README.md)
 
 ---
