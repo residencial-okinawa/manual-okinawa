@@ -1,0 +1,13 @@
+site_name: Manual Okinawa
+
+theme:
+  name: material
+  language: pt-BR
+
+nav:
+ - Início: README.md
+ - Telefones: telefones-de-emergência-e-serviços-sp.md
+ - Silêncio: horário-de-silêncio-e-sossego.md
+ - Obras: obras-e-reparos.md
+ - Lixo: coleta-de-lixo.md
+ - Recicláveis: descarte-de-recicláveis.md
