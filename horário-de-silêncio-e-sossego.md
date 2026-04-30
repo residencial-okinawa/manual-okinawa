@@ -18,6 +18,16 @@ O respeito ao descanso alheio é fundamental. Seguimos a **Lei Municipal nº 16.
 > * **Conversas altas na sacada.**
 > 
 > * **Musica alta na entrada de veículo no térreo.**
+>
+>   ### 📢 Como reportar problemas?  
+Se algum ruído estiver incomodando, siga estes passos:
+
+1. **Conversa amigável:** sempre que possível, tente falar diretamente com o vizinho.  
+2. **Portaria:** ligue para o ramal **900** e peça apoio para contato com a unidade.  
+3. **Registro formal:** anote a ocorrência no aplicativo **Condopro**.  
+4. **Situações mais sérias:** entre em contato com a Prefeitura pelo número **156**.  
+
+Contamos com a colaboração de todos para um ambiente mais tranquilo e harmonioso!
 > 
 [⬆️ Voltar ao Índice](README.md)
 
