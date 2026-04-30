@@ -8,8 +8,9 @@ Para garantir o sossego dos moradores, as obras ruidosas devem seguir rigorosame
 
 ### 📢 Como reportar problemas?
 1. **Diálogo Amigável:** Tente conversar com o vizinho primeiro.
-2. **Livro de Ocorrências:** Interfone na Portaria (900) e registre formalmente no app **Condopro**.
-3. **Casos Graves:** Acione a Prefeitura pelo **156**.
+2. **Portaria:** Interfone na Portaria (900) e solicite que entrem em contato com a unidade ruidosa.
+3. **Livro de Ocorrências:** Registre formalmente no app **Condopro**.
+4. **Casos Graves:** Acione a Prefeitura pelo **156**.
 
 [⬆️ Voltar ao Índice](README.md)
 
