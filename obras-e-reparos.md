@@ -19,7 +19,7 @@ Para manter o conforto e o bem-estar de todos, pedimos que as obras com ruído r
 ---
 ### 🪟 Projeto das Sacadas
 
-**[Projeto das Sacadas]**(https://drive.google.com/file/d/1cQd556-pDLge0skComUfnslfQY-Tf3tT/view?usp=drive_link0)
+[Projeto das Sacadas](https://drive.google.com/file/d/1cQd556-pDLge0skComUfnslfQY-Tf3tT/view?usp=drive_link0)
 >
 > As sacadas podem ser feitas pela empresa da sua escolha, mas deve seguir as normas definidas em assembleia.
 ---
