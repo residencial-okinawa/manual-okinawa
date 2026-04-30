@@ -12,7 +12,7 @@ Para manter o conforto e o bem-estar de todos, pedimos que as obras com ruído r
 
 📘 Se atente ao capítulo IV do [Regulamento Interno](https://drive.google.com/file/d/1sMwUOzJmxQwnlPQHeu1qvLsKDV-LuK_n/view?usp=drive_link)  
 
-📄 Toda obra/reforma deve ter ART assinada por profissional e 📝 informe de obras preenchido  
+📄 Toda obra/reforma deve ter ART assinada por profissional e [informe de obras preenchido](https://drive.google.com/file/d/1Na_ix-Vzzy8AF0CW252zfZTArfbxc8vB/view?usp=drive_link)
 
 🚧 Cláusula 44ª) As obras só poderão ser iniciadas após a autorização do Síndico, podendo este 🚫 proibir a entrada dos prestadores de serviço da unidade que não apresentar a documentação ou caso exista dúvida com relação à obra a ser executada.
 
