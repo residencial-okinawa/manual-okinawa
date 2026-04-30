@@ -22,7 +22,7 @@ O respeito ao descanso alheio é fundamental. Seguimos a **Lei Municipal nº 16.
 >   ### 📢 Como reportar problemas?  
 Se algum ruído estiver incomodando, siga estes passos:
 
-1. **Conversa amigável:** sempre que possível, tente falar diretamente com o vizinho.  
+1. **Conversa amigável:** sempre que possível, prefira falar diretamente com o vizinho. Mensagens de texto podem gerar interpretações diferentes e, sem intenção, acabar causando desconforto.  
 2. **Portaria:** ligue para o ramal **900** e peça apoio para contato com a unidade.  
 3. **Registro formal:** anote a ocorrência no aplicativo **Condopro**.  
 4. **Situações mais sérias:** entre em contato com a Prefeitura pelo número **156**.  
