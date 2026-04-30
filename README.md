@@ -14,7 +14,7 @@
 7.  [🛠️ Obras e Reparos](obras-e-reparos.md)
 8.  [🗑️ Coleta de Lixo](coleta-de-lixo.md)
 9.  [♻️ Descarte de Recicláveis](descarte-de-recicláveis.md)
-10. [🏗️ Entulho, Madeira e Tintas (Ecopontos)](entulho-madeira-e-tintas-ecopontos.md)
+10. [🏗️ Entulhos e Restos de Obras](entulho-madeira-e-tintas-ecopontos.md)
 11. [📦 Encomendas](encomendas.md)
 
 ---
