@@ -17,6 +17,8 @@ Para manter o conforto e o bem-estar de todos, pedimos que as obras com ruído r
 🚧 Cláusula 44ª) As obras só poderão ser iniciadas após a autorização do Síndico, podendo este 🚫 proibir a entrada dos prestadores de serviço da unidade que não apresentar a documentação ou caso exista dúvida com relação à obra a ser executada.
 
 ---
+### 🪟 [Projeto das Sacadas](https://drive.google.com/file/d/1cQd556-pDLge0skComUfnslfQY-Tf3tT/view?usp=drive_link0
+---
 ### 📢 Como reportar problemas?  
 Se alguma obra estiver fora do horário, siga estes passos:
 
