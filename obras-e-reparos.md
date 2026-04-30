@@ -24,7 +24,7 @@ Para manter o conforto e o bem-estar de todos, pedimos que as obras com ruído r
 > As sacadas podem ser feitas pela empresa da sua escolha, mas deve seguir as normas definidas em assembleia.
 ---
 ### 📢 Como reportar problemas?  
-Se alguma obra estiver fora do horário, siga estes passos:
+Se alguma obra estiver fora do horário ou padrão, siga estes passos:
 
 1. **Conversa amigável:** sempre que possível, prefira falar diretamente com o vizinho. Mensagens de texto podem gerar interpretações diferentes e, sem intenção, acabar causando desconforto.
 2. **Portaria:** ligue para o ramal **900** e peça apoio para contato com a unidade.  
