@@ -1,16 +1,23 @@
-## 🛠️ Obras e Reparos
-Para garantir o sossego dos moradores, as obras ruidosas devem seguir rigorosamente os horários abaixo:
-* **Segunda a Sexta:** das 08h às 17h.
-* **Sábados:** das 08h30 às 15h.
-* **Domingos e Feriados:** **Proibido** realizar obras ruidosas.
->
-* **Estes horários serão readequados a nossa nova realidade na próxima assembleia**
+## 🛠️ Obras e Reparos  
+Para manter o conforto e o bem-estar de todos, pedimos que as obras com ruído respeitem os seguintes horários:
 
-### 📢 Como reportar problemas?
-1. **Diálogo Amigável:** Tente conversar com o vizinho primeiro.
-2. **Portaria:** Interfone na Portaria (900) e solicite que entrem em contato com a unidade ruidosa.
-3. **Livro de Ocorrências:** Registre formalmente no app **Condopro**.
-4. **Casos Graves:** Acione a Prefeitura pelo **156**.
+- **Segunda a sexta:** das 08h às 17h  
+- **Sábados:** das 08h30 às 15h  
+- **Domingos e feriados:** não é permitido realizar obras ruidosas  
+
+> 🔄 *Esses horários poderão ser revisados e ajustados na próxima assembleia, de acordo com as necessidades do condomínio.*
+
+---
+
+### 📢 Como reportar problemas?  
+Se algum ruído estiver incomodando, siga estes passos:
+
+1. **Conversa amigável:** sempre que possível, tente falar diretamente com o vizinho.  
+2. **Portaria:** ligue para o ramal **900** e peça apoio para contato com a unidade.  
+3. **Registro formal:** anote a ocorrência no aplicativo **Condopro**.  
+4. **Situações mais sérias:** entre em contato com a Prefeitura pelo número **156**.  
+
+Contamos com a colaboração de todos para um ambiente mais tranquilo e harmonioso!
 
 [⬆️ Voltar ao Índice](README.md)
 
