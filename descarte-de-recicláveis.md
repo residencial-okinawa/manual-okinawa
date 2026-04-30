@@ -10,7 +10,7 @@ O material deve estar **limpo e seco**:
 *   **Isopor:** A empresa responsável pela nossa coleta seletiva **permite** o descarte de isopores na caçamba de recicláveis, Quebre os pedações grandes de deixe embalado para não cair da caçamba com o vento.
 
 > [!CAUTION]
-> **O que NÃO é reciclável:** Papel higiênico, fraldas, absorventes, cerâmicas, cristais e bitucas de cigarro. Descarte no [**Lixo Comum**](lixo-comum.md).
+> **O que NÃO é reciclável:** Papel higiênico, fraldas, absorventes, cerâmicas, cristais e bitucas de cigarro. Descarte no [**Lixo Comum**](coleta-de-lixo.md).
 
 ### 🔋 Itens Especiais (Logística Reversa)
 Estes itens **jamais** devem ir para o lixo comum:
