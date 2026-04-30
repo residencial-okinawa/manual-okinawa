@@ -10,7 +10,7 @@ Para manter o conforto e o bem-estar de todos, pedimos que as obras com ruído r
 ---
 ### 🏁 Antes de Iniciar sua reforma
 
-📘 Se atente ao capítulo IV do Regulamento Interno  
+📘 Se atente ao capítulo IV do [Regulamento Interno](https://drive.google.com/file/d/1sMwUOzJmxQwnlPQHeu1qvLsKDV-LuK_n/view?usp=drive_link)  
 
 📄 Toda obra/reforma deve ter ART assinada por profissional e 📝 informe de obras preenchido  
 
